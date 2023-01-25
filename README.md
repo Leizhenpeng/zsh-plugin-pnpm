@@ -62,6 +62,7 @@ PRs are welcome!
 | pc    | `pnpm create`                        | Create a project from a create-\* start kit                                   |
 | ppub  | `pnpm publish`                       | Publish a package to the registry                                             |
 | pf    | `pnpm -r --filter`                   | Use filter in monorepo root directory                                         |
+| pre   | `pnpm run preview`                   | Run the preview script defined in `package.json`                              |
 
 ## CHANGELOG
 
