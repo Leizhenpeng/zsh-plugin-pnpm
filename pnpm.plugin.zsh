@@ -44,3 +44,6 @@ alias pc='pnpm create'
 
 # Monorepo
 alias pf='pnpm -r --filter'
+
+# qwik
+alias pre='pnpm run preview'
