@@ -47,3 +47,8 @@ alias pf='pnpm -r --filter'
 
 # qwik
 alias pre='pnpm run preview'
+
+# release
+alias pr='pnpm run release'
+
+
