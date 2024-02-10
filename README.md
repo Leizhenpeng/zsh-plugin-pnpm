@@ -63,6 +63,7 @@ PRs are welcome!
 | ppub  | `pnpm publish`                       | Publish a package to the registry                                             |
 | pf    | `pnpm -r --filter`                   | Use filter in monorepo root directory                                         |
 | pre   | `pnpm run preview`                   | Run the preview script defined in `package.json`                              |
+| pr    | `pnpm run release`                   | Run the release script defined in `package.json`                              |
 
 ## CHANGELOG
 
